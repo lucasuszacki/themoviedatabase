@@ -1,9 +1,10 @@
 import React from 'react';
+import Login from './components/Login';
 
 function App() {
   return (
-    <div>
-      <h1 className="text-6xl">Hello World</h1>
+    <div className="flex bg-gray-100 w-full h-screen">
+      <Login />
     </div>
   );
 }
