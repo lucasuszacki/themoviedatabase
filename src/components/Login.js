@@ -4,7 +4,7 @@ class Login extends Component {
   render() {
     return (
       <div class="w-full max-w-xs m-auto">
-        <div class="bg-white shadow-lg rounded-lg px-8 pt-6 pb-8">
+        <div class="bg-white shadow-xl rounded-lg px-8 pt-6 pb-8">
           <div class="mb-4">
             <label class="block text-gray-700 text-sm font-bold mb-2" for="nome">
               Nome
